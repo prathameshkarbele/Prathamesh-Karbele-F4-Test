@@ -1,0 +1,34 @@
+
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin:10px;
+    max-width: 1200px;
+    background-color:black;
+    width: 100%;
+    
+}
+.b{
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0);
+    margin:10px;
+    border-radius: 5px;
+    /* background-color:#00b894; */
+    /* background-color: #dfe6e9; */
+    /* background-color: #e17055; */
+    background-color: #b2bec3;
+}
+.b img{
+    border-radius: 5px;
+    width:100%;
+}
+.b h4{
+    margin:2px !important;
+}
+.link{
+    text-decoration: none;
+    /* color:black; */
+    color: black;
+    font-weight: bold;
+    
+}
